@@ -1,2 +1,11 @@
-# IBM-Data-Science
-This repository will house all the scripts used for the IBM Data Science Professional Certificate issued via Coursera. 
+# IBM Data Science Capstone - SpaceX
+
+## Business Problem
+The rise of commercial space travel has introduced new competition and innovation into the aerospace industry. One of the most significant factors in reducing the cost of launches is the ability to reuse the rocket’s first stage. SpaceX has disrupted the market by mastering this technology, offering launches at a fraction of the cost of traditional providers. For a new entrant like SpaceY, understanding the conditions under which SpaceX reuses its first stage is critical. By predicting whether a Falcon 9 rocket’s first stage will be recovered or not, SpaceY can estimate the operational cost structure of its competitor and develop competitive pricing strategies. The goal of this project is to use publicly available data and machine learning to predict whether SpaceX will recover the first stage of a rocket after a launch—information that directly impacts the cost of each mission.
+
+## Introduction
+The commercial space age has arrived. Private companies are reshaping the space industry, making space travel more accessible and affordable. Key players such as Virgin Galactic, Rocket Lab, Blue Origin, and especially SpaceX are leading this charge. SpaceX stands out with a series of impressive achievements—from delivering payloads to the International Space Station to building the Starlink satellite internet constellation and launching manned missions to orbit.
+
+A major reason for SpaceX’s cost advantage is its ability to reuse the first stage of its Falcon 9 rockets. While traditional launch providers charge upwards of $165 million per launch, SpaceX advertises a base launch cost of just $62 million. This drastic cost reduction is largely due to the recovery and reuse of the Falcon 9’s first stage—a complex and expensive component that performs most of the work during a launch.
+
+Understanding when and why SpaceX chooses to reuse the first stage—or not—can reveal valuable insights into their launch economics. In this capstone project, you will act as a data scientist for SpaceY, a new space startup founded by billionaire industrialist Allon Musk. Your mission is to analyze public data, create informative dashboards, and develop a machine learning model that predicts whether the first stage of a SpaceX Falcon 9 rocket will be reused. This insight will help your team estimate launch costs and compete more effectively in the rapidly evolving commercial space market.
